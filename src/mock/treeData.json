@@ -1,0 +1,26 @@
+[
+  [
+    "sample-folder",
+    2
+  ],
+  [
+    "sample-folder/folder",
+    2
+  ],
+  [
+    "sample-folder/workspaces",
+    2
+  ],
+  [
+    "sample-folder/xyz",
+    2
+  ],
+  [
+    "sample-folder/xyz/1.js",
+    1
+  ],
+  [
+    "sample-folder/1.js",
+    1
+  ]
+]
