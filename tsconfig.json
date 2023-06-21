@@ -1,15 +1,15 @@
 {
-	"compilerOptions": {
-		"target": "es6",
-		"module": "commonjs",
-		"moduleResolution": "node",
-		"outDir": "out",
-		"lib": [ "es2016", "WebWorker" ],
-		"sourceMap": true
-	},
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "out",
+    "lib": ["es2016", "WebWorker"],
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
 
-	"include": [
-		"src",
-		"./*.d.ts"
-	]
+  "include": ["src", "./*.d.ts"],
+  "exclude": ["node_modules"]
 }

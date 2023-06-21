@@ -54,7 +54,7 @@
     "run-in-browser": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. --folder-uri=memfs:/sample-folder"
   },
   "devDependencies": {
-    "@types/vscode": "^1.48.0",
+    "@types/vscode": "1.48.0",
     "ts-loader": "^4.4.2",
     "typescript": "^3.9.7",
     "webpack": "^4.43.0",
